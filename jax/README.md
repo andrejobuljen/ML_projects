@@ -1,1 +1,1 @@
-Multi-Layer Perceptron (MLP) in JAX implementation and performance on MNIST dataset, following [this](https://www.youtube.com/watch?v=CQQaifxuFcs).
+Building Neural Networks in [JAX](https://github.com/google/jax). Implementing Multi-Layer Perceptron ([MLP](https://en.wikipedia.org/wiki/Multilayer_perceptron) in JAX and using it as a classifier on MNIST dataset following [this](https://www.youtube.com/watch?v=CQQaifxuFcs) and visualizing performance.
