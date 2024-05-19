@@ -1,3 +1,3 @@
- - Notebook [sklearn_random_forest_mnist](./sklearn_random_forest_mnist.ipynb) -- Random Forest classifier in sklearn.
+ - Notebook [sklearn_random_forest_mnist](./sklearn_random_forest_mnist.ipynb) -- Random Forest in sklearn.
    
-   Implementing Random Forest using scikit-learn and using it as a classifier on MNIST dataset, plus visualizing performance.
+   Implementing simple Random Forest classifier in scikit-learn and testing it on MNIST dataset, plus visualizing performance.
